@@ -8,7 +8,7 @@ let digit =0
 // }
 // console.log(product)
 for (let n = 452; n >0; n=(n-digit)/10) {
-     digit = n%10
+      digit = n%10
     product =product*digit
     
 }

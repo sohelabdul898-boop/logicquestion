@@ -8,3 +8,5 @@ for(let i =0;i <n; i++){
     cuurenterm =cuurenterm*CommonRatio
 }
 console.log(aqseq.join("  "))
+
+// 5  15  45  135  405  1215  3645  10935  32805  98415   

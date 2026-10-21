@@ -9,9 +9,12 @@ let sum =0;
  }
 if (sum === num) {
     console.log("it is a perfect number")
- } else {     console.log("it is not the perfect no" )
-
+ } else {     
+console.log("it is not the perfect no" )
  }
+
+
+
 
 for (let i = 1; i < num; i++) {
     if (num%i === 0) {

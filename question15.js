@@ -13,18 +13,23 @@
 //         console.log("it is not a amstrong no")
 //     }
 
-let sum =0
+let sum =0 
 let digit =0
-let  orignalnum = 0
-for (let n = 567; n >0; n = (n-(n%10))/10) {
-     orignalnum = n
-    digit = n%10
-    sum +=digit**3
+let count =0
+let i=153
+for(let temp = i; temp>0; temp =Math.floor(temp/10)){
+  count++  //count+1
 }
-if (sum === orignalnum) {
-    console.log("it is the  amstrong no")
+for (let n =i; n >0; n = (n-digit)/10) {
+    digit = n%10
+    sum +=digit**count
+}
+console.log(sum)
+
+ if (sum === i) {
+     console.log("it is the  amstrong no")
 }
 
-else{
+ else{
     console.log("its not amstrong num")
 }

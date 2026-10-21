@@ -1,13 +1,23 @@
-// let n = 4;
-// for (let  i= 1; i <=10; i++) {
+//  let n = 4;
+//  for (let  i= 1; i <=10; i++) {
 //    result = n* i;
-//    console.log(n +"*"+ i + "="+ result )
-// }
-let n= 4;
-
+//     console.log(n +"*"+ i + "="+ result )
+//  }
+let n = 4;
 let i = 1;
-while (i<=10) {
-    result = n*i;
-console.log(n +"*"+ i + "="+ result)
+while (i <= 10) {
+   let result = n * i;
+    console.log(n + "*" + i + "=" + result)
     i++;
 }
+// output :-
+// 4*1=4
+// 4*2=8
+// 4*3=12
+// 4*4=16
+// 4*5=20
+// 4*6=24
+// 4*7=28
+// 4*8=32
+// 4*9=36
+// 4*10=40

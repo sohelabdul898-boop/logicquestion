@@ -7,4 +7,4 @@ do {
         sum+=i
     }
     i++;
-} while (i<=n);
+} while (i<=n);git 

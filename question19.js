@@ -29,3 +29,6 @@ for (let count = 0; count <n ; count++){
 }
 console.log(`faboncci series up to ${n} term :`)
 console.log(arr.join("  ")) 
+
+
+// output - 0  1  1  2  3  5  8  13  21  34

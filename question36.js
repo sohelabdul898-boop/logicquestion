@@ -1,5 +1,4 @@
 let n =" 153"
-
 let total = 0
 let originalnum = parseInt(n);
 let num = originalnum

@@ -7,3 +7,4 @@ do {
     n = (n-digit)/10
 } while (n>0);
 console.log(reverse)
+// output - revese the  given value - 7654

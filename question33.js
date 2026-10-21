@@ -7,3 +7,4 @@ do {
     }
 } while (n!==0);
 console.log(largest)
+// output when we enter the 39 and then 45 it was compare and the largest number is 45

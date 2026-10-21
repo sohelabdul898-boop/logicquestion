@@ -10,7 +10,7 @@
 //     }
 //     if (isprime) {
 //         console.log(i)
-//     }
+//     } 
 //     i++;
 // } 
 
@@ -27,3 +27,4 @@ for (let i = 2; i <=100; i++) {
     }
     
 }
+// output - print prime no 1 to 100

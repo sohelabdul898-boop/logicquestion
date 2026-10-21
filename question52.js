@@ -9,3 +9,4 @@ for(let i =0;count<=n;i++){
     
 }
 console.log(sum)
+// output - 110

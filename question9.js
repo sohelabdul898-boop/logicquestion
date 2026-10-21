@@ -5,3 +5,5 @@ while (n>0) {
     n--;
 }
 console.log(result)
+
+// Output - for factorial 5 is 120
