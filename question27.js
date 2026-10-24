@@ -7,9 +7,9 @@
  console.log(lcm)
 
 
-let c = 12
-let lcms =c
-for(let b =15; lcms%b!=0;){
-lcm+=c
-}
-console.log(lcms)
+// let c = 12
+// let lcms =c
+// for(let b =15; lcms%b!=0;){
+// lcm+=c
+// }
+// console.log(lcms)

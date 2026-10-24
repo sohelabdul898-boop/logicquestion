@@ -7,13 +7,13 @@ let b = 98
  }
  console.log(a)
 
-let c =56
-// let b =98
-for(let b= 98; b!=0;){
-    let tem =b
-    b = a%b
-    c=tem
-}
-console.log(a)
+// let c =56
+// // let b =98
+// for(let b= 98; b!=0;){
+//     let tem =b
+//     b = a%b
+//     c=tem
+// }
+// console.log(a)
 
 // output - hcf of these no is 14

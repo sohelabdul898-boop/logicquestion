@@ -9,8 +9,9 @@
 // }
 // console.log(smallest)
 let smallest  = 9
-for (let n = 4279;  n>0; n = Math.floor(n/10) ) {
-    let digit = n%10
+let digit =0
+for (let n = 4279;  n>0; n = (n-digit)/10 ) {
+     digit = n%10
     if (digit < smallest) {
         smallest =digit
     }
