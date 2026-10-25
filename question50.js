@@ -7,7 +7,7 @@ const numrows = matrix.length
 const numcol = matrix[0].length
 console.log("Matrix")
 for(let i =0;i<numrows;i++){
-    console.log(matrix[i].join(""))
+    console.log(matrix[i].join("  "))
 }
 console.log("               ")
 
