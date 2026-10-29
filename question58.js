@@ -12,11 +12,18 @@
 
 
 
+// let sum =0;
+// let n=5;
+// for(let i =1;i<=n;i++){
+//     let sq = i*i
+//     sum+=sq
+// }
+// console.log(sum)
+
 let sum =0;
 let n=5;
 for(let i =1;i<=n;i++){
-    let sq = i*i
-    sum+=sq
+    let value = 1/i
+    sum+=value
 }
 console.log(sum)
-
