@@ -28,3 +28,16 @@ for (let j =0; j<numcol;j++){
     console.log(`col: ${j+1} :${colsum}`)
 }
 
+// ouput :-
+// 1  2  3
+// 4  5  6
+// 7  8  9
+               
+// row: 1: 6
+// row: 2: 15
+// row: 3: 24
+          
+// column sum
+// col: 1 :12
+// col: 2 :15
+// col: 3 :18 
