@@ -14,3 +14,5 @@ for(let i=0;i<=arr.length;i++){
     }
 }
 console.log("Negative No",count)
+// Positive No 4
+// Negative No 3
