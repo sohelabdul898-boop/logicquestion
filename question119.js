@@ -5,7 +5,4 @@ console.log(square(5))
 
 
 
-// for(let i=1;i<=5;i++){
-//     const sq  =i*i
-//     console.log(sq)
-// }
+
